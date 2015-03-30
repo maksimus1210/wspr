@@ -1,4 +1,14 @@
-# wspr
+# wsprcoder
+
+This is  asimple program to generate wspr sybols for  arduino or raspberry pi 
+
+compiled using visual studio, but this can be compiled with mingw, gcc, clang etc and on linux as-well (the gut of this program comes from wsprpi[3] from Guido.
+
+
+******
+General:
+******
+
 WSPR related code snippets and tools
 
 Several tools based on online sources for implementing wspr on raspberry pi and arduino
@@ -31,3 +41,10 @@ Credits:
   [3] Fork created by Guido:
       https://github.com/threeme3/WsprryPi
   [4] https://github.com/JamesP6000/WsprryPi
+  
+  This compilation and minor modifications are from riyas (https://github.com/riyas-org/wspr)
+  More about my arduino/pi projects can be spotted at http://blog.riyas.org
+  
+  73s
+  
+  
