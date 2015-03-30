@@ -31,3 +31,10 @@ Credits:
   [3] Fork created by Guido:
       https://github.com/threeme3/WsprryPi
   [4] https://github.com/JamesP6000/WsprryPi
+  
+  This compilation and minor modifications are from riyas (https://github.com/riyas-org/wspr)
+  More about my arduino/pi projects can be spotted at http://blog.riyas.org
+  
+  73s
+  
+  
