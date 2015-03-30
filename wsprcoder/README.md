@@ -1,6 +1,6 @@
 # wsprcoder
 
-This is  asimple program to generate wspr sybols for  arduino or raspberry pi 
+This is  a simple program to generate wspr sybols for  arduino or raspberry pi on windows
 
 compiled using visual studio, but this can be compiled with mingw, gcc, clang etc and on linux as-well (the gut of this program comes from wsprpi[3] from Guido.
 
